@@ -1,0 +1,44 @@
+# Node.js dependencies
+/node_modules/
+
+# Electron build output
+/dist-electron/
+
+# Compiled files
+/dist/
+
+# Playwright test results
+/playwright-report/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package lock files if you want to ignore them (optional)
+package-lock.json
+
+# Electron builder files (optional if you don't need them in version control)
+electron-builder.json
+
+# Environment files (optional)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# VSCode settings (optional)
+.vscode/
+
+# JetBrains IDEs (optional)
+.idea/
+
+# System files
+*.bak
+*.swp
+
